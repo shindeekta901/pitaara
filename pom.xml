@@ -12,9 +12,9 @@
 	</parent>
 	
 	<groupId>com.example.demo</groupId>
-	<artifactId>Pitaara</artifactId>
+	<artifactId>CarRent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Pitaara</name>
+	<name>CarRent</name>
 	<description>Spring Boot JSP Project for Railway</description>
 	
 	<properties>
